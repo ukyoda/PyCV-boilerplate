@@ -1,6 +1,7 @@
 # PyCV-boilerplate
 
 Boost.PythonでOpenCVのモジュールを作成するためのボイラープレート
+https://qiita.com/peisuke/items/f648375c8fa8f9a08541 を参考に作成させていただきました。
 
 ## 必要なライブラリ
 
