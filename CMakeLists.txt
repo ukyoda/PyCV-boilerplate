@@ -20,6 +20,6 @@ set(PYTHON_INCLUDE_DIRS "/usr/local/var/pyenv/versions/3.7.0/include/python3.7m"
 set(PYTHON_LIBRARIES "/usr/local/var/pyenv/versions/3.7.0/lib/libpython3.7m.dylib")
 
 find_package(PythonInterp REQUIRED)
-find_package(Numpy REQUIRED)
+find_package(NumPy REQUIRED)
 
 add_subdirectory(pycv_example)
